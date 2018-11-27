@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongo": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://yminc7:yminc7@ds051665.mlab.com:51665/backend",
+    "database": "backend",
+    "password": "yminc7",
+    "name": "mongo",
+    "user": "yminc7",
+    "connector": "mongodb"
+  }
+}
